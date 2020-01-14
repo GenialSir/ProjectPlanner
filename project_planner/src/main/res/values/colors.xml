@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 亮天蓝色 -->
+    <color name="brilliant_blue">#01C7D2</color>
+    <color name="brilliant_tint_blue">#8CE0E5</color>
+
+    <!--内容和搜索item图片背景-->
+    <color name="search_item_img_bg">#445566</color>
+    <color name="orange">#e5cd88</color>
+    <color name="slightGray">#535353</color>
+    <color name="light_orange">#E4CD87</color>
+    <color name="gray_bg">#535353</color>
+    <color name="light_gray_bg">#CCCCCC</color>
+    <color name="orange_deep">#E5CC89</color>
+    <color name="seek_bar_bg">#383838</color>
+
+</resources>

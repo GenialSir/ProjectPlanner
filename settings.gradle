@@ -1,0 +1,3 @@
+include ':app'
+include ':project_planner'
+rootProject.name='ProjectPlannerDemo'
